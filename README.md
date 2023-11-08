@@ -25,7 +25,7 @@ If the .bat file is not working as administator-
 1) Open "Windows Powershell" as administator.
 2) Go to the folder where you have extracted the crack.
 3) In the top copy the path.
-4) In Powershell type "**cd "[PASTE THE PATH HERE]"**"
+4) In Powershell type " **cd "[PASTE THE PATH HERE]"** "
 *Copy the inverted commas whcih are in bold.*
 
 # Support-
