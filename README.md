@@ -1,4 +1,4 @@
-# Vape-v4.10-Decencies-Crack
+# Vape v4.10 (Decencies' Crack)
 Unfinished leaked Decencies' Vape v4.10 crack.
 
 # Instructions
