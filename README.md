@@ -26,7 +26,7 @@ If the .bat file is not working as administator-
 2) Go to the folder where you have extracted the crack.
 3) In the top copy the path.
 4) In Powershell type " **cd "[PASTE THE PATH HERE]"** "
-*Copy the inverted commas whcih are in bold.*
+*Copy the inverted commas whcih are in bold, and do not copy the brackets just paste the path there instead.*
 
 # Support-
 Join [My Discord Server](https://discord.gg/7BUgC7SS9p) for support.
