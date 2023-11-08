@@ -10,7 +10,7 @@ Unfinished leaked Decencies' Vape v4.10 crack.
 6) Do NOT quit the terminal window, as it will remove Vape.
 
 # Safe?
-Yes it is safe and tested by me, but as it is unfinished it is quite buggy.
+Yes it is safe and tested by me, but as it is unfinished it maybe buggy at times.
 
 # Compatibilities 
 This crack is unfinished and hence is only compatible with-
