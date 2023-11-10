@@ -17,8 +17,9 @@ This crack is unfinished and hence is only compatible with-
 1) Lunar Client (1.8.9)
 2) Vanilla (1.8.9)
 3) Vanilla with Optifine (1.8.9)
-4) Lunar Client (1.12.2) [NOT TESTED]
-5) Vanilla (1.12.2) [NOT TESTED]
+4) Soar Client (1.8.9) [It is a little laggy]
+5) Lunar Client (1.12.2) [NOT TESTED]
+6) Vanilla (1.12.2) [NOT TESTED]
 
 # Not working as administator
 If the .bat file is not working as administator-
@@ -29,4 +30,4 @@ If the .bat file is not working as administator-
 *Copy the inverted commas which are in bold, and do not copy the brackets just paste the path there instead.*
 
 # Support
-Join [My Discord Server](https://discord.gg/7BUgC7SS9p) for support.
+If you are having any issues, feel free to join [my discord server](https://discord.gg/bsPGdxsZYK) and ask for help there.
