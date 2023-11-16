@@ -27,7 +27,8 @@ If the .bat file is not working as administrator-
 1) Open "Windows PowerShell" as administrator.
 2) Go to the folder where you have extracted the crack.
 3) In the top copy the path.
-4) In PowerShell type " **cd "[PASTE THE PATH HERE]"** " Copy the inverted commas which 5) are in bold, and do not copy the brackets just paste the path there instead.
+4) In PowerShell type " **cd "[PASTE THE PATH HERE]"** " Copy the inverted commas which are in bold, and do not copy the brackets just paste the path there instead.
+5) Then type "java --add-opens java.base/java.lang=ALL-UNNAMED -jar vape-loader.jar" without the inverted commas.
 
 # Support
 If you are having any issues, feel free to join [my discord server](https://discord.gg/bsPGdxsZYK) and ask for help there.
