@@ -9,9 +9,6 @@ Unfinished leaked Decencies' Vape v4.10 crack.
 6) Run "Vape v4.10.bat" as administrator.
 6) Do NOT quit the terminal window, as it will remove Vape.
 
-# Safe?
-Yes it is safe and tested by me, but as it is unfinished it maybe buggy at times.
-
 # Compatibilities 
 This crack is unfinished and hence is only compatible with-
 1) Lunar Client (1.8.9)
@@ -29,6 +26,9 @@ If the .bat file is not working as administrator-
 3) In the top copy the path.
 4) In PowerShell type " **cd "[PASTE THE PATH HERE]"** " Copy the inverted commas which are in bold, and do not copy the brackets just paste the path there instead.
 5) Then type "java --add-opens java.base/java.lang=ALL-UNNAMED -jar vape-loader.jar" without the inverted commas.
+
+# Safe?
+Yes it is safe and tested by me, but as it is unfinished it maybe buggy at times.
 
 # Support
 If you are having any issues, feel free to join [my discord server](https://discord.gg/bsPGdxsZYK) and ask for help there.
